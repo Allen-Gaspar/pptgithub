@@ -29,11 +29,11 @@
         }
     </script>
     
-    <!-- Favicon -->
+
     <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
 </head>
 <body>
-    <!-- Navigation -->
+  
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
         <div class="container">
             <a class="navbar-brand" href="#home">
